@@ -1,0 +1,25 @@
+body {
+	font-family: source sans pro;
+	width: 80%;
+	margin: 20px auto;
+	border: 20px solid #bdc3c7;
+	padding: 20px;
+	max-width: 700px;
+}
+
+h2 {
+	color: #2c3e50;
+	font-size: 2rem;
+	font-weight: 700;
+}
+
+.date {
+	text-transform: uppercase;
+	color: #3498db;
+	letter-spacing: 0.2rem;
+}
+
+p:nth-of-type(2) {
+	border-left: 5px solid #bdc3c7;
+	padding-left: 5px;
+}
